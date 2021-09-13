@@ -31,7 +31,7 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MIN-JAEKIM&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Min-JAEKIM&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
@@ -41,5 +41,6 @@
 
 <br/>  
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Min-JAEKIM%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Min-JAEKIM)
   
 <br>
